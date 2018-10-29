@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VkInfo</string>
+    <string name="enter_user_vk_page_id">Enter user vk page id</string>
+    <string name="search">Search</string>
+    <string name="result">Result will be here</string>
+</resources>
